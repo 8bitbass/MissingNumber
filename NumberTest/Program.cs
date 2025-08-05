@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class NumberTest {
+    public static int Main(string[] args) {
+        return 0;
+    }
+}
